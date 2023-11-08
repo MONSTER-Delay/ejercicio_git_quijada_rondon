@@ -1,2 +1,1 @@
-# ejercicio_git_rondon_quijada
-# ejercicio_git_rondon_quijada
+# README.md
